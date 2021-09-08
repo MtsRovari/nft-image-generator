@@ -1,0 +1,19 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE6.png",
+    "tokenId": 6,
+    "name": "ADD_PROJECT_NAME_HERE 6",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "bg5"
+        },
+        {
+            "trait_type": "Circle",
+            "value": "layer1_01"
+        },
+        {
+            "trait_type": "Square",
+            "value": "layer2_02"
+        }
+    ]
+}
